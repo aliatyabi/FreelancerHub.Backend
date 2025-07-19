@@ -1,0 +1,11 @@
+D:\My Projects\FreelancerHub\src\FreelancerHub.Infrastructure\bin\Debug\net8.0\FreelancerHub.Infrastructure.deps.json
+D:\My Projects\FreelancerHub\src\FreelancerHub.Infrastructure\bin\Debug\net8.0\FreelancerHub.Infrastructure.dll
+D:\My Projects\FreelancerHub\src\FreelancerHub.Infrastructure\bin\Debug\net8.0\FreelancerHub.Infrastructure.pdb
+D:\My Projects\FreelancerHub\src\FreelancerHub.Infrastructure\obj\Debug\net8.0\FreelancerHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\FreelancerHub\src\FreelancerHub.Infrastructure\obj\Debug\net8.0\FreelancerHub.Infrastructure.AssemblyInfoInputs.cache
+D:\My Projects\FreelancerHub\src\FreelancerHub.Infrastructure\obj\Debug\net8.0\FreelancerHub.Infrastructure.AssemblyInfo.cs
+D:\My Projects\FreelancerHub\src\FreelancerHub.Infrastructure\obj\Debug\net8.0\FreelancerHub.Infrastructure.csproj.CoreCompileInputs.cache
+D:\My Projects\FreelancerHub\src\FreelancerHub.Infrastructure\obj\Debug\net8.0\FreelancerHub.Infrastructure.dll
+D:\My Projects\FreelancerHub\src\FreelancerHub.Infrastructure\obj\Debug\net8.0\refint\FreelancerHub.Infrastructure.dll
+D:\My Projects\FreelancerHub\src\FreelancerHub.Infrastructure\obj\Debug\net8.0\FreelancerHub.Infrastructure.pdb
+D:\My Projects\FreelancerHub\src\FreelancerHub.Infrastructure\obj\Debug\net8.0\ref\FreelancerHub.Infrastructure.dll

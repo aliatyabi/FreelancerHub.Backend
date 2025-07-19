@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G1RzDesd5xMoDMeZDSGssNhSr/tqvR+dmGRYq1GsU/M=",
+  "Source": "FreelancerHub.WebAPI",
+  "BasePath": "_content/FreelancerHub.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
