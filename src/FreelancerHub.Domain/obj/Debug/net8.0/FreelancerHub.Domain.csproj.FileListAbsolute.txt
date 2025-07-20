@@ -9,3 +9,4 @@ D:\My Projects\FreelancerHub\src\FreelancerHub.Domain\obj\Debug\net8.0\Freelance
 D:\My Projects\FreelancerHub\src\FreelancerHub.Domain\obj\Debug\net8.0\refint\FreelancerHub.Domain.dll
 D:\My Projects\FreelancerHub\src\FreelancerHub.Domain\obj\Debug\net8.0\FreelancerHub.Domain.pdb
 D:\My Projects\FreelancerHub\src\FreelancerHub.Domain\obj\Debug\net8.0\ref\FreelancerHub.Domain.dll
+D:\My Projects\FreelancerHub\src\FreelancerHub.Domain\obj\Debug\net8.0\FreelancerHub.Domain.sourcelink.json

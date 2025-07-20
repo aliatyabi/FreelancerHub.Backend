@@ -37,3 +37,4 @@ D:\My Projects\FreelancerHub\src\FreelancerHub.WebAPI\obj\Debug\net8.0\refint\Fr
 D:\My Projects\FreelancerHub\src\FreelancerHub.WebAPI\obj\Debug\net8.0\FreelancerHub.WebAPI.pdb
 D:\My Projects\FreelancerHub\src\FreelancerHub.WebAPI\obj\Debug\net8.0\FreelancerHub.WebAPI.genruntimeconfig.cache
 D:\My Projects\FreelancerHub\src\FreelancerHub.WebAPI\obj\Debug\net8.0\ref\FreelancerHub.WebAPI.dll
+D:\My Projects\FreelancerHub\src\FreelancerHub.WebAPI\obj\Debug\net8.0\FreelancerHub.WebAPI.sourcelink.json
