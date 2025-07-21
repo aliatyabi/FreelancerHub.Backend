@@ -32,7 +32,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\My Projects\\FreelancerHub\\src\\FreelancerHub.Domain\\FreelancerHub.Domain.csproj": {
+                "projectPath": "D:\\My Projects\\FreelancerHub\\src\\FreelancerHub.Domain\\FreelancerHub.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

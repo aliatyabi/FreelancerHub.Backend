@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FreelancerHub.Domain\FreelancerHub.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
